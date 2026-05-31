@@ -2,7 +2,7 @@
 <RptDataSource xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="InsuranceDW_DataSource">
   <ConnectionProperties>
     <Extension>SQL</Extension>
-    <ConnectString>Data Source=sayujya\SQLEXPRESS;Initial Catalog=Insurance_DW;Integrated Security=SSPI</ConnectString>
+    <ConnectString>Data Source=SAYUJYA\SQLEXPRESS;Initial Catalog=Insurance_DW</ConnectString>
     <IntegratedSecurity>true</IntegratedSecurity>
   </ConnectionProperties>
   <DataSourceID>733bf942-98f9-4e9f-bd3e-3a3bbd0bb2bd</DataSourceID>
